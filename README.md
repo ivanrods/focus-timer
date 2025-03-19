@@ -9,7 +9,7 @@ Um cronômetro simples e responsivo feito com HTML, CSS e JavaScript. Ele permit
 
 ## 🔗 Acesse o projeto
 
-[![Ver Projeto](https://img.shields.io/badge/Demo-Ao%20vivo-blue?style=for-the-badge&logo=vercel)](https://ivanrods.github.io/FocusTimer/)
+[![Ver Projeto](https://img.shields.io/badge/Demo-Ao%20vivo-blue?style=for-the-badge&logo=vercel)](https://ivanrods.github.io/focus-timer/)
 
 ## 📌 Tecnologias utilizadas
 
